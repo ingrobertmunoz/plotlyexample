@@ -1,0 +1,5 @@
+ipywidgets==7.6.3
+pandas==1.2.0
+numpy==1.19.2
+plotly==4.14.3
+watermark==2.1.0
